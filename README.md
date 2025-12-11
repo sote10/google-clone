@@ -19,13 +19,13 @@ https://www.google.com/search?q={query}
 - Interacción fluida y ligera.
 
 - 🧼 **Limpieza automática del input**  
-El texto del buscador se limpia justo antes de redirigir, manteniendo un comportamiento más profesional.
+El texto del buscador se limpia justo antes de redirigir.
 
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML5**  
-- **CSS3** (sin frameworks, puro código)  
-- **JavaScript** para redirección y eventos
+- **CSS3**
+- **JavaScript**
 
 ## 📂 Estructura del proyecto
 
