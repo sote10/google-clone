@@ -29,10 +29,10 @@ El texto del buscador se limpia justo antes de redirigir, manteniendo un comport
 
 ## 📂 Estructura del proyecto
 
-/project
-├── index.html
-├── styles.css
-└── script.js 
+project/
+- `index.html`
+- `styles.css` 
+- `script.js`
 
 ## ▶️ Cómo usarlo
 
